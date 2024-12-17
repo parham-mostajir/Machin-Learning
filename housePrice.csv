@@ -135,7 +135,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 121,3,True,True,False,Ostad Moein,3300000000.0,110000.0
 80,2,True,True,True,Azarbaijan,2800000000.0,93333.33
 70,2,False,True,True,Bahar,1200000000.0,40000.0
-160,1,False,False,False,Qarchak,3600000.0,120.0
+160,1,False,False,False,Qarchak,,120.0
 40,0,False,False,False,Pakdasht,165000000.0,5500.0
 88,2,True,True,True,Railway,2860000000.0,95333.33
 141,3,True,True,True,Persian Gulf Martyrs Lake,3810000000.0,127000.0
