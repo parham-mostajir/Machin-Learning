@@ -730,7 +730,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 107,2,True,True,True,Pasdaran,9200000000.0,306666.67
 55,1,False,True,False,Karoon,850000000.0,28333.33
 50,1,True,True,True,Salsabil,1500000000.0,50000.0
-75,2,True,True,True,Pardis,60000000.0,2000.0
+75,2,True,True,True,Pardis,,2000.0
 420,5,True,True,False,Andisheh,11000000000.0,366666.67
 225,4,True,True,False,Andisheh,5500000000.0,183333.33
 230,3,True,True,True,Heravi,13800000000.0,460000.0
@@ -2769,7 +2769,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 85,2,True,True,True,Northren Jamalzadeh,3600000000.0,120000.0
 63,1,True,True,True,Ostad Moein,1380000000.0,46000.0
 100,2,True,True,True,Tajrish,5700000000.0,190000.0
-83,2,True,True,True,Ozgol,55000000.0,1833.33
+83,2,True,True,True,Ozgol,,1833.33
 110,3,True,True,True,Persian Gulf Martyrs Lake,3150000000.0,105000.0
 71,2,True,True,True,North Program Organization,2160000000.0,72000.0
 37,1,False,True,False,Hashemi,570000000.0,19000.0
